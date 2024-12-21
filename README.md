@@ -3,8 +3,8 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguajes:** Python.
-- **Otros:** LaTeX, Arch Linux, zsh.
+- **Lenguajes:** Python, HTML.
+- **Otros:** LaTeX, markdown, Arch Linux, zsh.
 
 ---
 ## 💻 Hardware
